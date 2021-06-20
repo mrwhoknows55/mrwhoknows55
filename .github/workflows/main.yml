@@ -4,8 +4,8 @@ on:
   push:
     branches: [ master ]
   schedule:
-    # Runs at 12.30 am  '35 5 * * *'  IST (default time is utc so coverted it to ist)
-    - cron: '35 5 * * *'
+    # Runs at 12.05 am IST (default time is utc so coverted it to ist)
+    - cron: '35 18 * * *'
 
 jobs:
   update-readme:
