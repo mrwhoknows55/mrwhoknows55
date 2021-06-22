@@ -6,7 +6,7 @@
 - 💻 Computer Science Engineering Student.
 - 🐧 Linux and Open Source Enthusiast.
 - 👨‍💻 Mostly Working On Android, Kotlin 💙.
-- 🌐 Want To Get Into Backend, Ktor/Spring.
+- 🌐 Sometimes on Backend, Ktor, Django.
 
 <img src="https://github.com/mrwhoknows55/mrwhoknows55/blob/master/images/stat.svg" alt="Wakatime Weekly"/>
 <img src="https://github-readme-stats.vercel.app/api?username=mrwhoknows55" alt="MrWhoKnows' Stats" /><!-- Force inline -->
