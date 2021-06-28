@@ -1,13 +1,18 @@
-# Hi, There! I'm [Avadhut](https://avdhut.ml) 🙋‍♂️
+# Hi, There! I'm [Avadhut](https://mrwhoknows.com) 🙋‍♂️
 
-#### 🎍 Welcome To My Github Profile 👨‍💻
+[![Blog](https://img.shields.io/badge/-Blog-grey?style=for-the-badge&logo=blogger&logoColor=blue&link=https://blog.mrwhoknows.com/)](https://blog.mrwhoknows.com)
+[![Twitter](https://img.shields.io/badge/-mr_whoknows-grey?style=for-the-badge&logo=twitter&logoColor=blue&link=https://twitter.com/mr_whoknows55/)](https://twitter.com/mr_whoknows55)
+[![LinkedIn](https://img.shields.io/badge/-mr_whoknows-grey?style=for-the-badge&logo=linkedin&logoColor=blue&https://linkedin.com/in/mrwhoknows/)](https://linkedin.com/in/mrwhoknows/)
+[![Instagram](https://img.shields.io/badge/-mr_whoknows-grey?style=for-the-badge&logo=instagram&logoColor=blue&link=https://instagram.com/mr_whoknows/)](https://instagram.com/mr_whoknows)  
+
+### 🎍 Welcome To My Github Profile 👨‍💻
 
 - 📱 Android App Developer.
 - 💻 Computer Science Engineering Student.
 - 🐧 Linux and Open Source Enthusiast.
 - 👨‍💻 Mostly Working On Android, Kotlin 💙.
 - 🌐 Sometimes on Backend, Ktor, Django.
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=mrwhoknows55&include_all_commits=true&show_icons=true&theme=onedark" alt="MrWhoKnows' Stats" />  
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrWhoKnows&layout=compact&theme=onedark" alt="MrWhoKnows' Wakatime Stats" />
 
-<img src="https://github.com/mrwhoknows55/mrwhoknows55/blob/master/images/stat.svg" alt="Wakatime Weekly"/>
-<img src="https://github-readme-stats.vercel.app/api?username=mrwhoknows55" alt="MrWhoKnows' Stats" /><!-- Force inline -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrwhoknows55" alt="MrWhoKnows' Top Langs" /> <!-- Force inline -->
